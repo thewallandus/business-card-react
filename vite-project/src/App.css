@@ -6,6 +6,7 @@
     border: 1px solid red;
     background-color: #23252C;
     color: white;
+    border-radius: 5px;
 }
 
 .container {
@@ -14,9 +15,5 @@
     justify-self: center;
     border: 1px solid black;
     background-color: #1A1B21;
-}
-
-.bottom-container {
-    background:;
-    height: 100%;
+    border-radius: 5px;
 }

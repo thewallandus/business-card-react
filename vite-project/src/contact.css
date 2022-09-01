@@ -24,6 +24,11 @@
     border-radius: 5px;
 }
 
+.contact--Email:hover {
+    background-color: black;
+    color: white;
+}
+
 .contact--LinkedIn {
     width: 115px;
     background: #5093E2;
@@ -31,4 +36,9 @@
     text-decoration: none;
     color: white;
     border-radius: 5px;
+}
+
+.contact--LinkedIn:hover {
+    background-color: yellow;
+    color: darkorange;
 }
