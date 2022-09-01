@@ -6,7 +6,6 @@
 }
 
 .contact--Role {
-    border: 1px solid red;
     margin-top: -3%;
     color: #F3BF99;
     font-size: 0.75rem;
@@ -14,7 +13,6 @@
 
 .contact--Name {
     font-size: 25px;
-    border: 1px solid red;
 }
 
 .contact--Email {
