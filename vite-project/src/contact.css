@@ -1,0 +1,36 @@
+.contact {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.contact--Role {
+    border: 1px solid red;
+    margin-top: -3%;
+    color: #F3BF99;
+    font-size: 0.75rem;
+}
+
+.contact--Name {
+    font-size: 25px;
+    border: 1px solid red;
+}
+
+.contact--Email {
+    background: white;
+    color: black;
+    padding: 0.3rem 1.3rem;
+    text-decoration: none;
+    margin-right: 15px;
+    border-radius: 5px;
+}
+
+.contact--LinkedIn {
+    width: 115px;
+    background: #5093E2;
+    padding: 0.3rem 1.3rem;
+    text-decoration: none;
+    color: white;
+    border-radius: 5px;
+}
