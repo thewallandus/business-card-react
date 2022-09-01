@@ -1,3 +1,8 @@
 .info {
+    text-align: center;
+    padding: 0 5%;
+}
 
+.info p {
+    font-size: 14px;
 }
